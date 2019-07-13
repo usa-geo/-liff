@@ -1,22 +1,6 @@
 @keyframes noise{
   0%{background-position:1000px;}
 }
-body, html{
-url('https://fonts.googleapis.com/css?family=Pacifico|Righteous&display=swap');
-.wrapper {
-     width: 50%;
-     margin: 0 auto;
-     text-align: center;
-     background: url('berries.jpg') 0 0;
-     -webkit-background-clip: text;
-     -webkit-text-fill-color: transparent;
-}    
-h1 {font-size: 12em; font-family: 'Righteous', cursive;}
-h2 {
-    font-size: 8em;
-    margin-top: -200px;
-    font-family: 'Pacifico', cursive;
-}
 body {
   background: #ccae62;
 }
