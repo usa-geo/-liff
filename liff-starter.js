@@ -170,7 +170,7 @@ function meProfile(){
         if (tipe === 'profile') {
             liff.sendMessages([{
                 type: "template",
-                altText: "Profile "+prof.displayName,
+                altText: "SendProfile "+prof.displayName,
                 template: {
                     type: "buttons",
                     thumbnailImageUrl: prof.pictureUrl,
@@ -185,7 +185,7 @@ function meProfile(){
                     actions: [
                         {
                             type:"uri",
-                            label:"Me",
+                            label:"TAB",
                             uri:"line://app/1590732676-gLRjWyXN?type=profile"
                         }
                     ]
