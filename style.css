@@ -1,7 +1,7 @@
-@keyframes noise{
-  0%{background-position:1000px;}
-}
-body {
+#@keyframes noise{
+  #0%{background-position:1000px;}
+#}
+fbody {
   width: 100%;
   min-height: 100vh;
   display: flex;
