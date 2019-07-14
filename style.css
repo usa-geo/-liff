@@ -1,7 +1,7 @@
 #@keyframes noise{
   #0%{background-position:1000px;}
 #}
-body {
+bodty {
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -101,7 +101,7 @@ input:active+.circle::after {
   opacity: .1;
   transform: scale(2.6);
 }
-body {
+bodgy {
   background: #ccae62;
 }
 
