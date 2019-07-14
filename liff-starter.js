@@ -186,7 +186,7 @@ function meProfile(){
                         {
                             type:"uri",
                             label:"TAB",
-                            uri:"line://app/1590732676-gLRjWyXN?type=profile"
+                            uri:"line://app/1603105499-laZnn2b3?type=profile"
                         }
                     ]
                 }
