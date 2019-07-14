@@ -10,7 +10,7 @@ bodty {
   margin: 0;
   padding: 0;
 }
-section {
+sectiona {
   width: 100%;
   min-height: inherit;
   display: flex;
@@ -19,19 +19,14 @@ section {
   flex-direction: column;
   position: relative;
 }
-section::before,
-section::after {
+sectiona::before,
+sectiona::after {
   content: "";
   display: block;
   border-radius: 100%;
   position: absolute;
 }
-.container {
-  --first-color: #E91E63;
-  --second-color: #009688;
-  #background: hsl(0, 0%, 10%);
-}
-label {
+labela {
   display: flex;
   justify-content: flex-start;
   align-items: center;
